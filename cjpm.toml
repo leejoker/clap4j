@@ -1,0 +1,13 @@
+[dependencies]
+
+[package]
+  cjc-version = "0.54.3"
+  compile-option = ""
+  description = "A simple and easy to use command line argument parser library for Cangjie."
+  link-option = ""
+  name = "clap4cj"
+  output-type = "dynamic"
+  src-dir = ""
+  target-dir = ""
+  version = "1.0.0"
+  package-configuration = {}
